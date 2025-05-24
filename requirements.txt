@@ -63,7 +63,7 @@ telegram
 nekos.py
 envparse
 img2pdf
-git+https://github.com/trentm/python-markdown2
+markdown2
 fontTools
 janda
 uvicorn[standard]
